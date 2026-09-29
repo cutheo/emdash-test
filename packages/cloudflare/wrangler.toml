@@ -1,0 +1,6 @@
+name = "emdash-test"
+compatibility_date = "2026-09-29"
+main = "./dist/_worker.js/index.js"
+
+[site]
+bucket = "./dist"
